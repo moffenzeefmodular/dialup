@@ -1,5 +1,5 @@
 /*
-         Jarmaggedøn
+         Dial-Up
       Møffenzeef Mødular
         Røss Fish 2017
   http://moffenzeefmodular.com
